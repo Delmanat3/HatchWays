@@ -1,0 +1,27 @@
+{
+  "name": "hatchway-assesment",
+  "version": "1.0.0",
+  "description": "Assesment",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --silent",
+    "start": " node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delmanat3/HatchWays.git"
+  },
+  "author": "Nathan Delman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delmanat3/HatchWays/issues"
+  },
+  "homepage": "https://github.com/Delmanat3/HatchWays#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^3.1.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
