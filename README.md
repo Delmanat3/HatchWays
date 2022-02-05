@@ -18,6 +18,8 @@ http://localhost:3001/api/feedback/
 
 http://localhost:3001/api/feedback/:id -run the get route first and grab an id to use in the url param -- p.s. this is the put route.
 ^^req body is as follows:
+
+
 {
   "email": "JohnAppleseed@2u.com",
   "feedbackType": "UI",
@@ -28,6 +30,8 @@ http://localhost:3001/api/feedback/:id -run the get route first and grab an id t
 ##POST routes-
 
 http://localhost:3001/api/tips/ 
+
+
   {
         "username": "j",
         "topic": "UX",
@@ -35,6 +39,8 @@ http://localhost:3001/api/tips/
  }    
  
 http://localhost:3001/api/feedback/ 
+
+
 {
   "email": "JohnAppleseed@2u.com",
   "feedbackType": "UI",
