@@ -2,7 +2,7 @@
 time as of completion 9:39pm cst
 
 ## User story
-AS A person who likes being able to play with data, I WANT to be able to perform simple CRUD operations on said data. THEREFORE You can add/delete/update/fetch(idk get??) feedback from a site and add/fetch Tips people have posted.
+AS A person who likes being able to play with data, I WANT to be able to perform simple CRUD operations on said data. THEREFORE You can add/delete/update/fetch(idk get??) feedback from an API and add/fetch Tips people have posted.
 
 IDK how i feel about fetch there... if possible and you know anonymous person leave me a note on your opinion. 
 
