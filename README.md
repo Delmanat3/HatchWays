@@ -2,12 +2,9 @@
 time as of completion 9:39pm cst
 
 ## User story
-AS A person who likes being able to play with data,
-I WANT to add or view feedback from my site and see Tips people have posted
-SO THAT I can add my favorites or decide where to go find a new favorite
-Welp thats about it. Thanks for the consideration,
-Nathan.
+AS A person who likes being able to play with data, I WANT to be able to perform simple CRUD operations on said data. THEREFORE You can add/delete/update/fetch(idk get??) feedback from a site and add/fetch Tips people have posted.
 
+IDK how i feel about fetch there... if possible and you know anonymous person leave me a note on your opinion. 
 
 
 ##USAGE
@@ -51,6 +48,8 @@ i gues putting that twice isn't neccessary but its too late so.
 
 ## Time Excuses 
 I was pretty much done around 7:30 but i left  white space in the insomnia body section and it took me an ungodly about of time to realize. 
+Welp thats about it. Thanks for the consideration,
+Nathan.
 
 
 
