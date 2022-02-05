@@ -1,0 +1,20 @@
+{
+  "name": "hatchways",
+  "version": "1.0.0",
+  "description": "Assesment for Hatchways",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "cd server && npm test",
+    "start":"cd server && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delmanat3/HatchWays.git"
+  },
+  "author": "Nathan Delman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delmanat3/HatchWays/issues"
+  },
+  "homepage": "https://github.com/Delmanat3/HatchWays#readme"
+}
